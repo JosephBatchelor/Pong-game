@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Console
+comment1.params=
+comment1.target=void\ Display()
+comment2.params=X\ Y
+comment2.target=java.lang.String\ output(java.lang.String,\ java.lang.String)
+comment3.params=p1\ p2\ Title\ Gen
+comment3.target=java.lang.String\ output(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=x
+comment4.target=int\ output(int)
+comment5.params=x\ y
+comment5.target=int\ output(int,\ int)
+comment6.params=x
+comment6.target=double\ output(double)
+comment7.params=x\ y
+comment7.target=double\ output(double,\ double)
+comment8.params=Key
+comment8.target=java.lang.String\ Keystroke(java.lang.String)
+numComments=9

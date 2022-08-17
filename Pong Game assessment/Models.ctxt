@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Models
+comment1.params=Graphics
+comment1.target=void\ Visual(javafx.scene.canvas.GraphicsContext)
+comment10.params=Graphics
+comment10.target=void\ Scoreboardp2(javafx.scene.canvas.GraphicsContext)
+comment2.params=Graphics
+comment2.target=void\ Player2(javafx.scene.canvas.GraphicsContext)
+comment3.params=Graphics
+comment3.target=void\ Ball(javafx.scene.canvas.GraphicsContext)
+comment4.params=Graphics
+comment4.target=void\ PitchTop(javafx.scene.canvas.GraphicsContext)
+comment5.params=Graphics
+comment5.target=void\ PitchBottom(javafx.scene.canvas.GraphicsContext)
+comment6.params=Graphics
+comment6.target=void\ CenterLine(javafx.scene.canvas.GraphicsContext)
+comment7.params=Graphics
+comment7.target=void\ CenterCircle(javafx.scene.canvas.GraphicsContext)
+comment8.params=Graphics
+comment8.target=void\ CenterInnerCircle(javafx.scene.canvas.GraphicsContext)
+comment9.params=Graphics
+comment9.target=void\ Scoreboardp1(javafx.scene.canvas.GraphicsContext)
+numComments=11

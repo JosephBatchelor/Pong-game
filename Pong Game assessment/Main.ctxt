@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \r\n
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ Method\ start\ holds\ all\ my\ objects\ as\ well\ as\ my\ key\ control\ it\ plays\ an\ important\ role\ in\ \r\nfunctionaility.\r\n
+comment3.params=Graphics
+comment3.target=void\ Dynamics(javafx.scene.canvas.GraphicsContext)
+comment3.text=\r\n\ This\ method\ plays\ an\ important\ in\ simulating\ movement.\ this\ method\ is\ implemnted\ to\ refresh\ and\ update\ \r\n\ the\ game\ as\ for\ every\ refresh\ the\ mthod\ updates\ the\ method\ visual\ which\ essentially\ updates\ the\ methods\r\n\ called\ from\ both\ class\ model\ and\ class\ function.\ Simulating\ movement\ ,\ but\ in\ stead\ its\ updating\ the\ \r\n\ values\ of\ models\ so\ quick\ that\ it\ looks\ like\ smooth\ movement.\ I\ uses\ encapsulation\ to\ prevent\ other\ \r\n\ classes\ from\ altering.\r\n\ Link-https\://www.programcreek.com/java-api-examples/?api\=javafx.animation.Timeline\u0000\r\n
+comment4.params=Graphics
+comment4.target=void\ Visual(javafx.scene.canvas.GraphicsContext)
+comment4.text=\r\n\ This\ method\ will\ provide\ the\ visuals\ and\ Display\ of\ objects\ and\ the\ stage.\r\n\ This\ method\ will\ hold\ all\ objects\ created\ from\ class\ Models.\r\n
+numComments=5
